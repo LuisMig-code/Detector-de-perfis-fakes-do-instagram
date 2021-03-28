@@ -1,4 +1,4 @@
-# Detector de perfis fakes do instagram :
+# Detector de perfis fakes do instagram <i class="fab fa-instagram"></i>:
 
 ## PT-BR
 <p>
