@@ -1,7 +1,7 @@
 # Detector de perfis fakes do instagram:
 
 ---
-[![instagram](https://www.instagram.com/luix.py/)]
+![img_4286a-350x233](https://www.flaticon.com/svg/vstatic/svg/733/733614.svg?token=exp=1616940916~hmac=a22af0fc426f1047063941d8af59a0e0)
 ---
 
 ## PT-BR
