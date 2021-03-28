@@ -16,7 +16,7 @@
 </p>  
  
 <p> Access the article about this project here </p>
-<p> Access the project here at GoogleColaboratory </p>
+<p><a href="https://github.com/LuisMig-code/Detector-de-perfis-fakes-do-instagram/blob/main/fake_profile_detector_on_instagram.ipynb"> Access the project here at GoogleColaboratory</a> </p>
 <p><a href="www.linkedin.com/in/luis-miguel-code">Access my linkedIn here</a></p>
  
  
