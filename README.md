@@ -1,13 +1,5 @@
 # Detector de perfis fakes do instagram:
 
----
-<div style="width:100px"> 
-
-![Instagram](https://www.flaticon.com/svg/vstatic/svg/733/733614.svg?token=exp=1616940916~hmac=a22af0fc426f1047063941d8af59a0e0)
-
-</div>
----
-
 ## PT-BR
 <p>
   Neste projeto fiz um modelo de Machine Learning que tem por objetivo predizer se determinado perfil no instagram é fake ou não! Com algumas features boolenas (true ou false) e outros dados acerca deste perfil fomas capaz de construir um modleo completo que analisa e nos retorna se este perfil é ou não é fake. Além disso , trabalhei com diversos algorítimos em uma espécie de tutorial com explicações ráidas e simples a fim de que possamos ter um entendimento completo do projeto, espero que goste! 
