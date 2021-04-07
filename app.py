@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 # função para carregar o dataset
 @st.cache
 def get_data():
-    return pd.read_csv("/Users/Luis/Desktop/predicao_instagram/instagram/train.csv")
+    return pd.read_csv("train.csv")
 
 # função para treinar o modelo
 def train_model():
